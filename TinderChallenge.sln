@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinderChallenge", "TinderChallenge\TinderChallenge.csproj", "{10864D91-C5A9-4989-A9D9-D638137A60BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinderChallenge.Tests", "TinderChallenge.Tests\TinderChallenge.Tests.csproj", "{C6DAC9BD-3B59-47BF-809B-3B37056D7728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10864D91-C5A9-4989-A9D9-D638137A60BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10864D91-C5A9-4989-A9D9-D638137A60BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10864D91-C5A9-4989-A9D9-D638137A60BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10864D91-C5A9-4989-A9D9-D638137A60BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DAC9BD-3B59-47BF-809B-3B37056D7728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DAC9BD-3B59-47BF-809B-3B37056D7728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DAC9BD-3B59-47BF-809B-3B37056D7728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DAC9BD-3B59-47BF-809B-3B37056D7728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
